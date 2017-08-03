@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8c1e1cae-4cc7-43e2-9cf1-33989f73988a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trialfile.py" afterPath="$PROJECT_DIR$/trialfile.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -296,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501765567664</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="trial it me again">
+      <created>1501769224081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1501769224081</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -339,7 +345,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trial" />
-    <option name="LAST_COMMIT_MESSAGE" value="trial" />
+    <MESSAGE value="trial it me again" />
+    <option name="LAST_COMMIT_MESSAGE" value="trial it me again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
