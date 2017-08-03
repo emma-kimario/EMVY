@@ -11,6 +11,7 @@ en1 = tkinter.Entry(root)
 en1.pack()
 
 print("Did this come to you")
+print('hello')
 
 root.mainloop()
 
