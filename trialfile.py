@@ -10,5 +10,7 @@ label1.pack()
 en1 = tkinter.Entry(root)
 en1.pack()
 
+print("Did this come to you")
+
 root.mainloop()
 
